@@ -1,0 +1,5 @@
+Count the number of words, lines and spaces in a textfile
+count the number of unique words in the textfile
+display the frequency of each word in the textfile
+find and display the longest word in the textfile
+calculate and display the average length of words in the textfile
